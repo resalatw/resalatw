@@ -36,26 +36,34 @@ Focused on full-stack development, backend APIs, and modern web applications.
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/REST_API-8B1E3F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRUD_Operations-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 </p>
 
@@ -76,4 +84,4 @@ AI-powered web application for answering diabetes-related questions using API in
 
 ## 🌍 Portfolio Website
 
-(https://resalat-portfolio.onrender.com)
+[Visit Portfolio](https://resalat-portfolio.onrender.com)
