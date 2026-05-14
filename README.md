@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
 
 ## ✨ About Me
 
@@ -56,20 +56,6 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Portfolio Website
-Responsive portfolio built with React and modern CSS animations.
-
-### 🔹 Finance Tracker API
-Backend API using Node.js, Express, MongoDB, and JWT authentication.
-
-### 🔹 Diabetes AI Enquiry System
-AI-powered web application for answering diabetes-related questions using API integration and intelligent workflows.
-
 ---
 
 ## 🌍 Portfolio Website
