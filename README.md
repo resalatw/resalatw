@@ -1,14 +1,4 @@
-<h1 align="center">Hi, I'm Resalat Wafa</h1>
-
-<h3 align="center">
-Software Engineering Technology – AI Student
-</h3>
-
-<p align="center">
-Focused on full-stack development, backend APIs, and modern web applications.
-</p>
-
----
+<h1 align="center">
 
 ## ✨ About Me
 
