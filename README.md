@@ -57,6 +57,6 @@
 
 </p>
 
-## 🌍 Portfolio Website
+## Portfolio Website
 
 [Visit Portfolio](https://resalat-portfolio.onrender.com)
