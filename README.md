@@ -1,5 +1,4 @@
 <h1 align="center">
-
 ## ✨ About Me
 
 - 🎓 Software Engineering Technology – AI student at Centennial College  
